@@ -24,7 +24,7 @@
 
 ## 📱 Screenshots
 
-![Home](screenshots/home.png)
+![Home](Screenshots/Home_Screen.jpg)
 ![Booking](screenshots/booking.png)
 ![Payment](screenshots/payment.png)
 ![Profile](screenshots/profile.png)
