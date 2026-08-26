@@ -24,10 +24,10 @@
 
 ## 📱 Screenshots
 
-![Home](screenshots/Home Screen.jpg)
-![Booking](screenshots/Booking Screen.jpg)
-![Payment](screenshots/payment.png)
-![Profile](screenshots/profile.png)
+![Home](screenshots/Home_Screen.jpg)
+![Booking](screenshots/Booking_Screen.jpg)
+![Payment](screenshots/Payment_Screen.jpg)
+![Profile](screenshots/Profile_Screen.jpg)
 
 ---
 
