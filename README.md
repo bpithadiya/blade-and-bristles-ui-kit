@@ -7,7 +7,7 @@ to match your project needs and budget.
 
 ---
 
-![Banner](assets/banner.png)
+![Banner](screenshots/Banner.jpeg)
 
 ---
 
