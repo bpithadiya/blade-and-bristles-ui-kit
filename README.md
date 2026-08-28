@@ -24,8 +24,8 @@ to match your project needs and budget.
 | Version | Features | Price | Buy |
 |---------|----------|-------|-----|
 | **v2.0 — UI Kit** | 39 Screens, Dark Theme, Hive Storage, Multi-Theme | $18 | [Buy Now](https://www.codester.com/items/61840/barbershop-booking-flutter-ui-kit?ref=Pithadiya93) |
-| **v3.0 — Firebase Edition** | Everything in v2.0 + Google Login + Firebase Auth + Cloud Storage | $49 | Coming Soon |
-| **v4.0 — Pro** | Everything in v3.0 + Payment + Push Notifications + Admin Panel | $99 | Coming Soon |
+| **v3.0 — Firebase Edition** | - | - | - |
+| **v4.0 — Pro** | - | - | - |
 
 ---
 
